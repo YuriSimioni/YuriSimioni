@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Yuri Ribeiro Simioni, tenho 20 anos e sou natural do São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em desenvolvimento de sistemas. Sou um entusiasta da tecnologia compartilho meu conhecimento e projetos do meu perfil
+Me chamo Yuri Ribeiro Simioni, tenho 20 anos e sou natural do São Paulo. Concluí o ensino médio na ETEC, com o curso técnico em desenvolvimento de sistemas. Sou um garimpeiro da tecnologia compartilho meu conhecimento e projetos do meu perfil
 
 <p align="left">
     <a href="https://github.com/YuriSimioni?tab=repositories&sort=stargazers">
